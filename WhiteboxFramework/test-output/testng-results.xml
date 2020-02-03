@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WhiteboxFramework" duration-ms="18194" started-at="2020-02-03T05:11:50Z" finished-at="2020-02-03T05:12:08Z">
+    <groups>
+    </groups>
+    <test name="WhiteboxFramework" duration-ms="18194" started-at="2020-02-03T05:11:50Z" finished-at="2020-02-03T05:12:08Z">
+      <class name="com.whiteboxframework.testCases.TC_LoginTest001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.whiteboxframework.testCases.TC_LoginTest001@5cb9f472]" name="setup" is-config="true" duration-ms="6011" started-at="2020-02-03T05:11:50Z" finished-at="2020-02-03T05:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.whiteboxframework.testCases.TC_LoginTest001@5cb9f472]" name="loginTest" duration-ms="11305" started-at="2020-02-03T05:11:56Z" finished-at="2020-02-03T05:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.whiteboxframework.testCases.TC_LoginTest001@5cb9f472]" name="tearDown" is-config="true" duration-ms="638" started-at="2020-02-03T05:12:08Z" finished-at="2020-02-03T05:12:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.whiteboxframework.testCases.TC_LoginTest001 -->
+    </test> <!-- WhiteboxFramework -->
+  </suite> <!-- WhiteboxFramework -->
+</testng-results>

@@ -1,0 +1,71 @@
+2020-02-02 11:26:24,375 [main] INFO whitebox - Open the URL
+2020-02-02 11:26:26,187 [main] INFO whitebox - Click on the Login button
+2020-02-02 11:26:26,617 [main] INFO whitebox - Enter the Username
+2020-02-02 11:26:26,728 [main] INFO whitebox - Enter the Password
+2020-02-02 11:26:26,801 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 14:57:25,336 [main] INFO whitebox - Open the URL
+2020-02-02 14:57:26,682 [main] INFO whitebox - Click on the Login button
+2020-02-02 14:57:27,123 [main] INFO whitebox - Enter the Username
+2020-02-02 14:57:27,240 [main] INFO whitebox - Enter the Password
+2020-02-02 14:57:27,319 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:12:23,350 [main] INFO whitebox - Open the URL
+2020-02-02 15:12:25,176 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:12:25,574 [main] INFO whitebox - Enter the Username
+2020-02-02 15:12:25,681 [main] INFO whitebox - Enter the Password
+2020-02-02 15:12:25,763 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:25:50,310 [main] INFO whitebox - Open the URL
+2020-02-02 15:25:53,606 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:25:54,023 [main] INFO whitebox - Enter the Username
+2020-02-02 15:25:54,140 [main] INFO whitebox - Enter the Password
+2020-02-02 15:25:54,224 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:32:57,551 [main] INFO whitebox - Open the URL
+2020-02-02 15:33:00,487 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:33:01,002 [main] INFO whitebox - Enter the Username
+2020-02-02 15:33:01,126 [main] INFO whitebox - Enter the Password
+2020-02-02 15:33:01,208 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:34:01,325 [main] INFO whitebox - Open the URL
+2020-02-02 15:34:03,526 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:34:03,943 [main] INFO whitebox - Enter the Username
+2020-02-02 15:34:04,062 [main] INFO whitebox - Enter the Password
+2020-02-02 15:34:04,145 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:34:41,999 [main] INFO whitebox - Open the URL
+2020-02-02 15:34:43,242 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:34:44,008 [main] INFO whitebox - Enter the Username
+2020-02-02 15:34:44,131 [main] INFO whitebox - Enter the Password
+2020-02-02 15:34:44,217 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:35:29,261 [main] INFO whitebox - Open the URL
+2020-02-02 15:35:31,722 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:35:32,154 [main] INFO whitebox - Enter the Username
+2020-02-02 15:35:32,275 [main] INFO whitebox - Enter the Password
+2020-02-02 15:35:32,356 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:36:19,676 [main] INFO whitebox - Open the URL
+2020-02-02 15:36:21,434 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:36:21,857 [main] INFO whitebox - Enter the Username
+2020-02-02 15:36:21,983 [main] INFO whitebox - Enter the Password
+2020-02-02 15:36:22,062 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:38:44,293 [main] INFO whitebox - Open the URL
+2020-02-02 15:38:46,676 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:38:47,084 [main] INFO whitebox - Enter the Username
+2020-02-02 15:38:47,204 [main] INFO whitebox - Enter the Password
+2020-02-02 15:38:47,283 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:39:39,799 [main] INFO whitebox - Open the URL
+2020-02-02 15:39:41,779 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:39:42,231 [main] INFO whitebox - Enter the Username
+2020-02-02 15:39:42,349 [main] INFO whitebox - Enter the Password
+2020-02-02 15:39:42,429 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 15:41:16,066 [main] INFO whitebox - Open the URL
+2020-02-02 15:41:17,741 [main] INFO whitebox - Click on the Login button
+2020-02-02 15:41:18,137 [main] INFO whitebox - Enter the Username
+2020-02-02 15:41:18,246 [main] INFO whitebox - Enter the Password
+2020-02-02 15:41:18,320 [main] INFO whitebox - Click on Login button to go to Home Page
+2020-02-02 20:53:11,638 [main] INFO whitebox - Click on the Home Page
+2020-02-02 20:53:13,067 [main] INFO whitebox - Click on the Free Demo Access 
+2020-02-02 20:53:13,092 [main] INFO whitebox - Click No on the Free Demo Access to close the window
+2020-02-02 20:56:08,244 [main] INFO whitebox - Click on the Home Page
+2020-02-02 20:56:09,097 [main] INFO whitebox - Click on the Free Demo Access 
+2020-02-02 20:56:09,119 [main] INFO whitebox - Click No on the Free Demo Access to close the window
+2020-02-02 21:11:56,952 [main] INFO whitebox - Open the URL
+2020-02-02 21:12:07,566 [main] INFO whitebox - Click on the Login button
+2020-02-02 21:12:07,936 [main] INFO whitebox - Enter the Username
+2020-02-02 21:12:08,059 [main] INFO whitebox - Enter the Password
+2020-02-02 21:12:08,140 [main] INFO whitebox - Click on Login button to go to Home Page
