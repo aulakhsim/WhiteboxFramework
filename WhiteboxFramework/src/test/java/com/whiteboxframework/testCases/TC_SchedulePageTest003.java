@@ -20,6 +20,7 @@ public class TC_SchedulePageTest003 extends BaseClass{
 		lp.clickSubmit();
 		
 		driver.findElement(By.xpath("//a[text()='Schedule']")).click();
+		driver.findElement(By.id("schedule")).click();
 		
 	}
 
